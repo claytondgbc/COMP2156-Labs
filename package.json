@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "COMP 2156 Lab Exercise",
   "main": "index.js",
-  "scripts": {
+  "homepage": "https://claytondgbc.github.io/COMP2156-Labs/",
+    "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
